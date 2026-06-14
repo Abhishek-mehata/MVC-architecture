@@ -1,0 +1,27 @@
+{
+  "name": "mvc-architecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishek-mehata/MVC-architecture.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Abhishek-mehata/MVC-architecture/issues"
+  },
+  "homepage": "https://github.com/Abhishek-mehata/MVC-architecture#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^9.7.0",
+    "nodemon": "^3.1.14"
+  }
+}
